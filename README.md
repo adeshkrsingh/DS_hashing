@@ -23,6 +23,17 @@
     <p>Topics Includes :</p>
     <ul>
         <li>Basic HashTable implementation</li>
+        <li>Find whether an array is subset of another array </li>
+        <li>Union and Intersection of two Linked Lists </li>
+        <li>Find the largest subarray with 0 sum </li>
+        <li>Count distinct elements in array between given range</li>
+        <li>Palindrome Substring Queries </li>
+        <li>Check if an array can be divided into pairs whose sum is divisible by k </li>
+        <li>Implementing our Own Hash Table with Separate Chaining in Java </li>
+        <li>Internal Working of HashMap in Java </li>
+        <li>Find missing elements of a range </li>
+        <li>Longest Consecutive Subsequence </li>
+        <li>Collision Handling </li>
     </ul>
 </body>
 </html>
